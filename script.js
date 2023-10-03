@@ -40,5 +40,5 @@ var dates = [
 ];
 
 
-//alert(minDate(dates));
+alert(minDate(dates));
 
